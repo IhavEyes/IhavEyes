@@ -1,5 +1,5 @@
 # Hello, I am IhavEyes
-- About me:
+#### About me:
 - I play block game and just chattin. (ik im kinda boring) 
 - I am learning nothing at the moment really but I want to learn coding like c+ and more. 
 - I would love if someone could teach me how to and I would appreciate it as well. 
